@@ -1,2 +1,2 @@
 # playwright-Framework
-e2e
+e2e - framework
